@@ -13,6 +13,6 @@ export const BookList = () => {
       </ul>
     </div>
   ) : (
-    <div className="empty">No books to read, free time :)</div>
+    <div className="empty">No books to complete, Hello free time :)</div>
   );
 };
