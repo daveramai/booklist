@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Built for my bestie A.R. Ribgar who's working on her book collection, check it out..
+https://daveramai.github.io/booklist/
+
 ## Available Scripts
 
 In the project directory, you can run:
